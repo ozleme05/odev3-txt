@@ -1,0 +1,5 @@
+ozlem merve
+acun medya
+kod yaziyorum
+hello world
+yazilim dünyasi& C:/Users/Lenovo/AppData/Local/Programs/Python/Python313/python.exe c:/Users/Lenovo/Desktop/phyton.py/ödev3.py
